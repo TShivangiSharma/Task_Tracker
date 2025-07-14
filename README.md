@@ -28,3 +28,8 @@ Validation
 
 🔽 Then click:
 GENERATE 
+
+
+moving on to step 2
+Step 2: Create Task Entity (Java Class)
+This class will represent our tasks table in the database.
