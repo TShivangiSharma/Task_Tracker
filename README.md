@@ -33,3 +33,15 @@ GENERATE
 moving on to step 2
 Step 2: Create Task Entity (Java Class)
 This class will represent our tasks table in the database.
+
+
+
+
+
+
+
+after CRUD OPS
+
+we will add DTOs to  separate our entity model from what we expose in our APIs. This keeps our domain model clean and gives you flexibility to change internal logic without affecting the API.
+
+
